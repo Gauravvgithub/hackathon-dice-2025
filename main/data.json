@@ -1,0 +1,32 @@
+[   
+    {
+        "name":"Ironman",
+        "image":"https://cdn.marvel.com/u/prod/marvel/i/mg/3/e0/661e9b6428e34/standard_incredible.jpg",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officia, ipsum atque dolorem numquam inventore ex consectetur rerum incidunt, corrupti impedit illum veritatis beatae tenetur? Veritatis error, in consequuntur totam qui maiores.",
+        "tagline":"Hello Jarvis fly high"
+    },
+    {
+        "name":"Captain America",
+        "image":"https://cdn.marvel.com/u/prod/marvel/i/mg/3/e0/661e9b6428e34/standard_incredible.jpg",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officia, ipsum atque dolorem numquam inventore ex consectetur rerum incidunt, corrupti impedit illum veritatis beatae tenetur? Veritatis error, in consequuntur totam qui maiores.",
+        "tagline":"Hello Jarvis fly high"
+    },
+    {
+        "name":"Spiderman",
+        "image":"https://cdn.marvel.com/u/prod/marvel/i/mg/3/e0/661e9b6428e34/standard_incredible.jpg",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officia, ipsum atque dolorem numquam inventore ex consectetur rerum incidunt, corrupti impedit illum veritatis beatae tenetur? Veritatis error, in consequuntur totam qui maiores.",
+        "tagline":"Hello Jarvis fly high"
+    },
+    {
+        "name":"black widow",
+        "image":"https://cdn.marvel.com/u/prod/marvel/i/mg/3/e0/661e9b6428e34/standard_incredible.jpg",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officia, ipsum atque dolorem numquam inventore ex consectetur rerum incidunt, corrupti impedit illum veritatis beatae tenetur? Veritatis error, in consequuntur totam qui maiores.",
+        "tagline":"Hello Jarvis fly high"
+    },
+    {
+        "name":"hulk",
+        "image":"https://cdn.marvel.com/u/prod/marvel/i/mg/3/e0/661e9b6428e34/standard_incredible.jpg",
+        "description":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente officia, ipsum atque dolorem numquam inventore ex consectetur rerum incidunt, corrupti impedit illum veritatis beatae tenetur? Veritatis error, in consequuntur totam qui maiores.",
+        "tagline":"Hello Jarvis fly high"
+    }
+]
